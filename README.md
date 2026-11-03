@@ -31,9 +31,14 @@ Le fichier Power BI comprend **deux pages** :
 
 Ce projet est un **exercice guidé Microsoft Learn** et non une mission réalisée pour une entreprise. Il reflète ma progression dans la prise en main de Power BI.
 
-## 📷 Captures du rapport
+## 📊 Aperçu du tableau de bord
 
-*Captures des pages « Market Share » et « By Manufacturer » à ajouter prochainement.*
+### Analyse des parts de marché
+![Market Share](./market-share.png)
+
+### Analyse par fabricant
+![By Manufacturer](./by-manufacturer.png)
+
 
 ## 📂 Fichier du projet
 

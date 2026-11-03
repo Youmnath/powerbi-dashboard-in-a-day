@@ -43,7 +43,7 @@ Ce projet est un **exercice guidé Microsoft Learn** et non une mission réalis�
 ## 📂 Fichier du projet
 
 > **Fichier source Power BI :** le rapport `.pbix` est
-> conservé localement. Les captures ci-dessous permettent
+> conservé localement. Les captures ci-dessus permettent
 > de consulter les principaux résultats du projet.
 
 

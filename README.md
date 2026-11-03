@@ -42,9 +42,10 @@ Ce projet est un **exercice guidé Microsoft Learn** et non une mission réalis�
 
 ## 📂 Fichier du projet
 
-➡️ [Ouvrir le rapport Power BI (.pbix)](./DIAD%20Final%20Report%282%29.pbix)
+> **Fichier source Power BI :** le rapport `.pbix` est
+> conservé localement. Les captures ci-dessous permettent
+> de consulter les principaux résultats du projet.
 
-Pour explorer les interactions, télécharger le fichier et l'ouvrir dans **Power BI Desktop**.
 
 ## 🎓 Parcours de formation
 
